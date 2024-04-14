@@ -5,6 +5,6 @@ PERCENTAGE = 100
 
 TOTAL = price * discount / percentage
 
-DISCOUNTED_PRICE = price - total
+DISCOUNTED_PRICE =  - total
 
-print("The discounted price is: ", + DISCOUNTED_PRICE)
+printf("The discounted price is: ", + DISCOUNTED_PRICE)
